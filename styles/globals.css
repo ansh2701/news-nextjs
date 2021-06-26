@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+
+/* body {
+  background-image: linear-gradient(to right, #034378, #2d4e68);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  font-family: "Open Sans", sans-serif;
+} */
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+}
