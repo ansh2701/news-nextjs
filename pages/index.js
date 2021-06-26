@@ -3,9 +3,7 @@ import { useState } from "react";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 
-// import Cards from "../components/cards";
 import News from "../components/News";
-import styles from "../styles/Home.module.css";
 
 export default function Home(posts) {
   const [search, setSearch] = useState("");
